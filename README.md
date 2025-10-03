@@ -1,5 +1,7 @@
 # Web Data Insights – Hacker News Scraper & Analytics
+## Dashboard
 
+You can view the interactive dashboard output here: [Dashboard PDF](docs/dash.pdf)
 ## Overview
 
 This project collects, stores, and analyzes top stories from [Hacker News](https://news.ycombinator.com/) using Python. It demonstrates **data collection, database management, and basic data analysis** without requiring a web dashboard.
