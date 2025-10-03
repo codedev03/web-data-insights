@@ -1,0 +1,18 @@
+# Git ignore rules 
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter notebooks checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Ignore SQLite test databases
+*.sqlite3
